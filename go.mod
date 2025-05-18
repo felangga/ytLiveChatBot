@@ -1,4 +1,4 @@
-module github.com/ketan-10/ytLiveChatBot
+module github.com/felangga/ytLiveChatBot
 
 go 1.17
 
